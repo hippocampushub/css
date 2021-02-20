@@ -1,0 +1,9 @@
+{
+  "name": "hippocampus-css",
+  "version": "0.1.0",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "clean-css-cli": "^5.2.0"
+  }
+}
