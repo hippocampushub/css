@@ -7,6 +7,6 @@
     "clean-css-cli": "^5.2.0"
   },
   "scripts": {
-    "build": "npx cleancss -O2 -o main.min.css src/fonts.css src/normalize.css src/main.css"
+    "build": "npx cleancss -O2 --source-map -o main.min.css src/fonts.css src/normalize.css src/main.css"
   }
 }
