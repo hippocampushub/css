@@ -23,5 +23,6 @@ The css will continue to be updated as new design iterations come and go.
 
 ##### Author Acknowlegements
 
-- Caitlin Claire Money: caitlin.money.epfl.ch
-- Gil Barrios: gil.barriosdelvillar@epfl.ch
+Caitlin Claire Money: caitlin.money@epfl.ch
+
+Gil Barrios: gil.barriosdelvillar@epfl.ch
