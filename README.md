@@ -20,3 +20,8 @@ Make sure to use correct markup for headings `h1`, `h2`, etc.
 Refer to the styleguide for details: https://docs.google.com/document/d/1J0FXqPAogIhWzd3gvidlISjTNJIWK_jX6OD2RvwcGtQ/edit#
 
 The css will continue to be updated as new design iterations come and go.
+
+##### Author Acknowlegements
+
+- Caitlin Claire Money: caitlin.money.epfl.ch
+- Gil Barrios: gil.barriosdelvillar@epfl.ch
